@@ -1,6 +1,6 @@
 # Frontend Ödevi
 
-Aşağıdaki ödevde, sana verilen REST API'yi (arka uç) kullanarak bir frontend (ön yüz) uygulaması geliştirmeni istiyoruz. Aşağıdaki adımları dikkatlice takip et.
+Aşağıdaki ödevde, sana verilen REST API'yi (arka uç) kullanarak bir frontend (ön yüz) uygulaması geliştirmeni istiyoruz.
 
 ---
 
@@ -12,11 +12,16 @@ Aşağıdaki ödevde, sana verilen REST API'yi (arka uç) kullanarak bir fronten
 
 ---
 
-## 2. Kullanılacak Teknolojiler
+## 2. Kullanılacak Teknolojiler (**Zorunlu**)
 
-- HTML, CSS ve JavaScript kullanabilirsin.
-- İstersen React, Vue veya başka bir framework de kullanabilirsin. (Tercih senin.)
-- API istekleri için `fetch` veya `axios` kullanabilirsin.
+**Bu ödevde aşağıdaki teknolojileri kullanman ZORUNLUDUR:**
+
+- [Vue 3](https://vuejs.org/) (modern Vue sürümü)
+- [TailwindCSS](https://tailwindcss.com/) (arayüz tasarımı için)
+
+> Başka framework veya CSS kütüphanesi kullanma. Sadece Vue 3 ve TailwindCSS ile yapmalısın.
+
+API istekleri için `fetch` veya `axios` kullanabilirsin.
 
 ---
 
@@ -42,6 +47,7 @@ Aşağıdaki ödevde, sana verilen REST API'yi (arka uç) kullanarak bir fronten
 
 - Hataları ve başarılı işlemleri kullanıcıya göster.
 - Basit ama anlaşılır bir arayüz yap.
+- Tüm arayüzü **TailwindCSS** ile tasarla.
 
 ---
 
@@ -55,6 +61,7 @@ Aşağıdaki ödevde, sana verilen REST API'yi (arka uç) kullanarak bir fronten
 ## 5. Teslim
 
 - Projeni bir klasöre koy.
+- Kullandığın teknolojileri ve çalıştırma adımlarını anlatan kısa bir README.md ekle.
 - Klasörü zipleyip teslim et.
 
 ---
@@ -62,6 +69,12 @@ Aşağıdaki ödevde, sana verilen REST API'yi (arka uç) kullanarak bir fronten
 ## Notlar
 
 - API'nin nasıl kullanılacağını anlamak için ana klasördeki `README.md` dosyasını dikkatlice oku.
-- Takıldığın bir konu olursa yazmaktan çekinme.
+- Takıldığında mentoruna veya ekip arkadaşlarına sorabilirsin.
+- Kodunun çalıştığından emin ol.
+
+---
+
+**Önemli:**  
+Bu ödevde sadece **Vue 3** ve **TailwindCSS** kullanmalısın. Başka bir framework veya CSS kütüphanesi kullanırsan ödevin geçersiz sayılır.
 
 Kolay gelsin!
