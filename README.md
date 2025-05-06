@@ -1,4 +1,4 @@
-# REST API Kullanım Kılavuzu (Çok Basit Anlatım)
+# REST API Kullanım Kılavuzu
 
 Merhaba! Bu dosya, bu projeyi nasıl çalıştıracağını ve kullanacağını sana adım adım anlatacak. Hiçbir şey bilmiyorsan bile buradaki adımları takip ederek projeyi çalıştırabilirsin.
 
